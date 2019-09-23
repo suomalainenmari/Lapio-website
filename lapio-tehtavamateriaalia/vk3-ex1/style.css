@@ -1,3 +1,16 @@
-p { 
-    background-color: red;
- }
+
+h1 {
+    color:blue;
+}
+
+body {
+    color: purple;
+}
+
+.henkilot {
+    color: violet;
+}
+
+#jatkuu {
+    color:red;
+}

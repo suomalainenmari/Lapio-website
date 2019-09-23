@@ -1,0 +1,22 @@
+.ekaboksi {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+}
+
+.tokaboksi {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    left : 250px;
+}
+
+.kolmasboksi {
+    width: 200px;
+    height: 100px;
+    background-color:green;
+    position: absolute;
+    left: 500px;
+}
